@@ -26,6 +26,8 @@ console.log("Sup?")
 
 ### Question 2
 
+hello, sup, hi
+
 When fetchData is executed what will be console logged?
 
 ```javascript
@@ -38,6 +40,7 @@ function fetchData(){
 
 fetchData()
 ```
+undefined 
 
 What will be console logged when the following code is run? Why?
 
@@ -60,12 +63,15 @@ function fetchData(){
           .then( console.log )
 }
 
+
 fetchData()
 ```
-
+undefined bc console.log is empty
 ### Question 3
 
 In your own words: what does asynchronous mean?
+
+does not happen at the same time.
 
 ### Question 4
 
