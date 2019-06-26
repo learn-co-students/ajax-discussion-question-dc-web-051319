@@ -63,6 +63,8 @@ function fetchData(){
 fetchData()
 ```
 
+#gets the stuff that the Promise "promised" was there in the code before that 
+
 ### Question 3
 
 In your own words: what does asynchronous mean?
